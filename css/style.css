@@ -623,3 +623,9 @@
 .footer .copyright a:hover {
     color: var(--primary);
 }
+.whatsapp{
+    position: fixed;
+    height: 100px;
+    z-index: 100;
+    top: 85%;
+}
