@@ -627,6 +627,6 @@
 .whatsapp{
     position: fixed;
     height: 100px;
-    z-index: 100;
+    z-index: 99;
     top: 85%;
 }
